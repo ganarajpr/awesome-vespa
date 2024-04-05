@@ -7,6 +7,7 @@ A collection of awesome things regarding Vespa.
 
 
 ### Resources
+
 -[VSCode Vespa Plugin](https://marketplace.visualstudio.com/items?itemName=pehrs-com.vscode-vespa)
 -[Jetbrains Vespa Plugin](https://plugins.jetbrains.com/plugin/24041-vespa-yql)
 
@@ -14,9 +15,8 @@ A collection of awesome things regarding Vespa.
 ### Blogs / Articles
 
 
-
-
 ### Videos
+
 -[Vespa - Open Source Big Data Serving Engine - Jon Bratseth, Distinguished Architect, Verizon Media](https://www.youtube.com/watch?v=V3c5p2JopzQ&t=51s&ab_channel=YahooDeveloperNetwork)
 -[Understanding Vespa with a Lucene mindset - Atita Arora](https://www.youtube.com/watch?v=_ML-QB0Zxvg&ab_channel=PlainSchwarz)
 -[Vespa ai: Bucket distribution - intro](https://www.youtube.com/watch?v=HnhiesF62JY&t=177s&ab_channel=vespaengine)
