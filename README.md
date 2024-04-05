@@ -8,9 +8,9 @@ A collection of awesome things regarding Vespa.
 
 ### Resources
 
--[VSCode Vespa Plugin](https://marketplace.visualstudio.com/items?itemName=pehrs-com.vscode-vespa)
+- [VSCode Vespa Plugin](https://marketplace.visualstudio.com/items?itemName=pehrs-com.vscode-vespa)
 
--[Jetbrains Vespa Plugin](https://plugins.jetbrains.com/plugin/24041-vespa-yql)
+- [Jetbrains Vespa Plugin](https://plugins.jetbrains.com/plugin/24041-vespa-yql)
 
 
 ### Blogs / Articles
